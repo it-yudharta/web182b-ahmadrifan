@@ -1,2 +1,2 @@
-# init
-Initial Project
+# Aplikasi Perpustakaan
+Berisi Aplikasi Perpustakaan.
